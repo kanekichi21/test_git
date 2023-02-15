@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="app_bot.API_link.__add__" />
+          <option value="handlers.services.dp" />
+          <option value="sql.create_pool" />
+          <option value="olx.p" />
+          <option value="list.to_excel" />
+          <option value="list.save" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
